@@ -3,7 +3,9 @@ title: How to share your code
 teaching: 40
 exercises: 20
 duration: 0
-summary: ""
+summary: In this lesson you will open a GitHub account, if you don't already
+  have one, and learn to use GitHub to archive your code and make it publicly
+  available.
 questions: null
 objectives: null
 keypoints: null
