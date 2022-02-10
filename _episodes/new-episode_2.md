@@ -3,7 +3,9 @@ title: Citing your code with Zenodo
 teaching: 20
 exercises: 20
 duration: 0
-summary: ""
+summary: In this lesson you will learn how to use Zenodo to assign DOIs to your
+  GitHub repository, which enables other researchers to cite them (and enables
+  you to receive credit!).
 questions: null
 objectives: null
 keypoints: null
