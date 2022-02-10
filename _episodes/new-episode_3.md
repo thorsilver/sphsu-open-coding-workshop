@@ -9,8 +9,8 @@ objectives: null
 keypoints: null
 is-break: false
 ukrn_wb_rules: []
-day: 1
-order: 330000
+day: ""
+order: 100000
 
 ---
 The text of your lesson will go here.
