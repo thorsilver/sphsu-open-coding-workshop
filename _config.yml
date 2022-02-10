@@ -9,7 +9,7 @@ instructor_emails:
   - eric.silverman@glasgow.ac.uk
 helpers: []
 start_times:
-  - 09|00
+  - 10|00
 setup_files:
   - editor
   - git
