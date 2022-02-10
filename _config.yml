@@ -1,22 +1,29 @@
 ---
-workshop_id:
+workshop_id: UOGOC20220210_01
 topic: open-code
-title: Open Code Workshop
-instructors: []
-instructor_emails: []
+title: SPHSU Open Coding Workshop
+instructors:
+  - Dr Eric Silverman
+instructor_emails:
+  - eric.silverman@glasgow.ac.uk
+  - eric.silverman@glasgow.ac.uk
 helpers: []
 start_times:
   - 09|00
-setup_files: []
+setup_files:
+  - editor
+  - git
+  - python
+  - videoconferencing
 language: en
-venue:
-address:
-country:
-latitude:
-longitude:
-start_date:
-collaborative_notes:
-eventbrite:
+venue: ""
+address: Online
+country: GB
+latitude: null
+longitude: null
+start_date: null
+collaborative_notes: null
+eventbrite: null
 optional_intro_sections:
   - requirements
   - accessibility
