@@ -13,7 +13,6 @@ start_times:
 setup_files:
   - editor
   - git
-  - python
   - videoconferencing
 language: en
 venue: ""
@@ -21,8 +20,8 @@ address: Online
 country: GB
 latitude: null
 longitude: null
-start_date: null
-collaborative_notes: null
+start_date: 2022-02-10T00:00:00.000Z
+collaborative_notes: https://docs.google.com/document/d/15u5VSQdzk2tD6-B7nBxRC0UGJAcis1_ruzcX49NkbPs/edit?usp=sharing
 eventbrite: null
 optional_intro_sections:
   - requirements
