@@ -3,7 +3,7 @@ title: Break
 teaching: null
 exercises: null
 duration: 20
-summary: Allowing participants breaks helps everyone stay alert and focused.
+summary: A short break to allow you to stretch, get a cup of tea and relax.
 questions: null
 objectives: null
 keypoints: null
